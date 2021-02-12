@@ -1,0 +1,7 @@
+{
+  "name": "ParamedMobileApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
